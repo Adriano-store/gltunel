@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#007eff\">CLOUD ROCKET</font>", 
+      "value": "<font color=\"#007eff\">PLUSS STORE GL</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/dtndtW5/images-6.png", 
+      "value": "https://ibb.co/ZYp0yMS", 
       "name": "app_background_image"
     },
     {
@@ -94,7 +94,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/dDhWFcZ/20220627-182819.png", 
+      "value": "https://ibb.co/MfFf9qg", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO DEV4TUNNEL!!", 
+      "value": "SEJAM BEM VINDO(A)S A PLUSS STORE GL!!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
